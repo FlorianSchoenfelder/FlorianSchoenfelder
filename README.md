@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Florian Schoenfelder</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on **Simple-CRM**
+- 🔭 I’m currently working on **a Wordpress Website**
 
-- 🌱 I’m currently learning **Angular, TypeScript**
+- 🌱 I’m currently learning **Angular, TypeScript, Vue.JS**
 
 - 👯 I’m looking to collaborate on **Frontend- / Web Development**
 
 - 👨‍💻 All of my projects are available at [https://www.florian-schoenfelder.de/](https://www.florian-schoenfelder.de/)
 
-- 💬 Ask me about **HTML, SCSS, JavaScript, Angular**
+- 💬 Ask me about **HTML, SCSS, JavaScript, Angular, Vue.JS**
 
 - 📫 How to reach me **info@florian-schoenfelder.de**
 
